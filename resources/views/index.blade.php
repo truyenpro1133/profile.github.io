@@ -16,7 +16,7 @@
             <img src="profile_cv\assets\img\h1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Web Developer.</h3>
+            <h3>Profile Đặng Minh Truyền</h3>
             <p class="font-italic">
    {{--            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua. --}}
